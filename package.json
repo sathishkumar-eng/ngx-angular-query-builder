@@ -14,7 +14,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^18.0.3 || ^19.0.0",
     "@angular/cdk": "^18.0.3 || ^19.0.0",
