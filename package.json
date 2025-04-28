@@ -1,6 +1,6 @@
 {
-  "name": "ngx-angular-query-builder",
-  "version": "18.0.0",
+  "name": "@sathishkumar-eng/ngx-angular-query-builder",
+  "version": "18.0.1-sathish.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,6 +10,9 @@
     "watch-demo": "ng build demo --watch --configuration development",
     "test": "ng test",
     "prettier": "npx prettier --write **"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "private": true,
   "dependencies": {
